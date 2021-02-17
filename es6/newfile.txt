@@ -1,0 +1,7 @@
+Cognome: leo 
+Nome: asdfg 
+Sesso: maschio 
+Nazionalità: Italia 
+Categoria: cat.A 
+e-Mail: ciao@gmail.com
+Password: ciao 
